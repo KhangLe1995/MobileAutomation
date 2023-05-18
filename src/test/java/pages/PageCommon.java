@@ -10,6 +10,7 @@ import ultils.Abstract;
 public class PageCommon extends BaseTest {
 	
 	By icoOptMenu = By.cssSelector("[content-desc='open menu']");
+	By btnCartBadge = By.cssSelector("[content-desc='cart badge']");
 	By optLogin = By.cssSelector("[content-desc='menu item log in']");
 	By optLogout = By.cssSelector("[content-desc='menu item log out']");
 	By lblTitlePopup = By.cssSelector("[resource-id='android:id/alertTitle']");
@@ -22,6 +23,10 @@ public class PageCommon extends BaseTest {
 	
     public void openOptionMenu() {
     	Abstract.clickElement(icoOptMenu);
+    }
+    
+    public void openCartBadge() {
+    	Abstract.clickElement(btnCartBadge);
     }
     
     public void openLogIn() {
