@@ -1,0 +1,48 @@
+[INFO ] 09-05-2023 15:38:31 [TestNG-test=Params-1] Log - Set up driver
+[INFO ] 09-05-2023 15:38:39 [TestNG-test=Params-1] Log - Click element: By.cssSelector: [content-desc='open menu']
+[INFO ] 09-05-2023 15:38:41 [TestNG-test=Params-1] Log - Click element: By.cssSelector: [content-desc='menu item log in']
+[INFO ] 09-05-2023 15:38:44 [TestNG-test=Params-1] Log - Set text: bob@example.com on element By.cssSelector: [content-desc='Username input field']
+[INFO ] 09-05-2023 15:38:46 [TestNG-test=Params-1] Log - Set text: 10203040 on element By.cssSelector: [content-desc='Password input field']
+[INFO ] 09-05-2023 15:38:47 [TestNG-test=Params-1] Log - Click element: By.cssSelector: [content-desc='Login button']
+[INFO ] 09-05-2023 15:38:48 [TestNG-test=Params-1] Log - Click element: By.cssSelector: [content-desc='open menu']
+[INFO ] 09-05-2023 15:38:50 [TestNG-test=Params-1] Log - Click element: By.cssSelector: [content-desc='menu item log out']
+[INFO ] 09-05-2023 15:38:51 [TestNG-test=Params-1] Log - Get text: Are you sure you sure you want to logout?
+[INFO ] 09-05-2023 15:38:52 [TestNG-test=Params-1] Log - Click element: By.cssSelector: [resource-id='android:id/button1']
+[INFO ] 09-05-2023 15:38:54 [TestNG-test=Params-1] Log - Get text: You are successfully logged out.
+[INFO ] 09-05-2023 15:38:54 [TestNG-test=Params-1] Log - Click element: By.cssSelector: [resource-id='android:id/button1']
+[INFO ] 09-05-2023 15:40:02 [TestNG-test=Params-1] Log - Set up driver
+[INFO ] 09-05-2023 15:40:10 [TestNG-test=Params-1] Log - Click element: By.cssSelector: [content-desc='open menu']
+[INFO ] 09-05-2023 15:40:12 [TestNG-test=Params-1] Log - Click element: By.cssSelector: [content-desc='menu item log in']
+[INFO ] 09-05-2023 15:40:15 [TestNG-test=Params-1] Log - Set text: bob@example.com on element By.cssSelector: [content-desc='Username input field']
+[INFO ] 09-05-2023 15:40:16 [TestNG-test=Params-1] Log - Set text: 10203040 on element By.cssSelector: [content-desc='Password input field']
+[INFO ] 09-05-2023 15:40:18 [TestNG-test=Params-1] Log - Click element: By.cssSelector: [content-desc='Login button']
+[INFO ] 09-05-2023 15:40:18 [TestNG-test=Params-1] Log - Click element: By.cssSelector: [content-desc='open menu']
+[INFO ] 09-05-2023 15:40:20 [TestNG-test=Params-1] Log - Click element: By.cssSelector: [content-desc='menu item log out']
+[INFO ] 09-05-2023 15:40:22 [TestNG-test=Params-1] Log - Get text: Are you sure you sure you want to logout?
+[INFO ] 09-05-2023 15:40:22 [TestNG-test=Params-1] Log - Click element: By.cssSelector: [resource-id='android:id/button1']
+[INFO ] 09-05-2023 15:40:24 [TestNG-test=Params-1] Log - Get text: You are successfully logged out.
+[INFO ] 09-05-2023 15:40:25 [TestNG-test=Params-1] Log - Click element: By.cssSelector: [resource-id='android:id/button1']
+[INFO ] 09-05-2023 15:41:48 - Set up driver
+[INFO ] 09-05-2023 15:41:56 - Click element: By.cssSelector: [content-desc='open menu']
+[INFO ] 09-05-2023 15:41:58 - Click element: By.cssSelector: [content-desc='menu item log in']
+[INFO ] 09-05-2023 15:42:01 - Set text: bob@example.com on element By.cssSelector: [content-desc='Username input field']
+[INFO ] 09-05-2023 15:42:03 - Set text: 10203040 on element By.cssSelector: [content-desc='Password input field']
+[INFO ] 09-05-2023 15:42:04 - Click element: By.cssSelector: [content-desc='Login button']
+[INFO ] 09-05-2023 15:42:05 - Click element: By.cssSelector: [content-desc='open menu']
+[INFO ] 09-05-2023 15:42:07 - Click element: By.cssSelector: [content-desc='menu item log out']
+[INFO ] 09-05-2023 15:42:08 - Get text: Are you sure you sure you want to logout?
+[INFO ] 09-05-2023 15:42:09 - Click element: By.cssSelector: [resource-id='android:id/button1']
+[INFO ] 09-05-2023 15:42:11 - Get text: You are successfully logged out.
+[INFO ] 09-05-2023 15:42:12 - Click element: By.cssSelector: [resource-id='android:id/button1']
+[INFO ] [09-05-2023 15:43:15] - Set up driver
+[INFO ] [09-05-2023 15:43:23] - Click element: By.cssSelector: [content-desc='open menu']
+[INFO ] [09-05-2023 15:43:25] - Click element: By.cssSelector: [content-desc='menu item log in']
+[INFO ] [09-05-2023 15:43:28] - Set text: bob@example.com on element By.cssSelector: [content-desc='Username input field']
+[INFO ] [09-05-2023 15:43:29] - Set text: 10203040 on element By.cssSelector: [content-desc='Password input field']
+[INFO ] [09-05-2023 15:43:31] - Click element: By.cssSelector: [content-desc='Login button']
+[INFO ] [09-05-2023 15:43:31] - Click element: By.cssSelector: [content-desc='open menu']
+[INFO ] [09-05-2023 15:43:34] - Click element: By.cssSelector: [content-desc='menu item log out']
+[INFO ] [09-05-2023 15:43:35] - Get text: Are you sure you sure you want to logout?
+[INFO ] [09-05-2023 15:43:36] - Click element: By.cssSelector: [resource-id='android:id/button1']
+[INFO ] [09-05-2023 15:43:37] - Get text: You are successfully logged out.
+[INFO ] [09-05-2023 15:43:38] - Click element: By.cssSelector: [resource-id='android:id/button1']
